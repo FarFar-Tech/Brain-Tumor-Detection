@@ -13,7 +13,15 @@ All types of brain tumors can cause symptoms that vary based on the specific are
 NO - no tumor, encoded as 0
 YES - tumor, encoded as 1
 
+The dataset contains 2 folders: "yes" and "no" which contain 3060 Brain MRI Images.
+
+![image](https://github.com/user-attachments/assets/60c2c318-55c0-44a9-ba03-f29aa7c85f66)
+
 Unfortunately, the description of the data set lacks information about the origin of these MRI scans. Some samples of MRI scans with their labels are shown below:
 
 ![image](https://github.com/user-attachments/assets/34c1abb5-dcfb-4f46-bc8c-b727f5ec5ce4)
+
+A small version of the dataset is included in this repository, but the complete version can be downloaded here:
+
+https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 
